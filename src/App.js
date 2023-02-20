@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          編集
+          編集、追加
         </a>
       </header>
     </div>
